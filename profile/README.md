@@ -1,4 +1,4 @@
-# Durgaai-Solutions-Hub
+# DurgaaiSolutions-Organisation
 📌 Welcome To You All To Into Our Organisation 💚
 
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
@@ -27,16 +27,21 @@ src="https://skillicons.dev/icons?i=gamemakerstudio,gcp,git,github,heroku,html,j
 </a>
 </p>
 
-<h3 align="left">💌Support:</h3>
-<p></p>Now You Can Support Us And Appreciate Our Work On BuyMeABook!!😊</p>
-<a href="https://www.buymeacoffee.com/durgaai.in"><img src="https://img.buymeacoffee.com/button-api/?text=Durgaai Solutions&emoji=🤖&slug=durgaai.in&button_colour=87a922&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<h3 align="left">💌Support :</h3>
+<p></p>Now You Can Support Me And Appreciate My Work On BuyMeACoffe!!😊</p>
+<a href="https://www.buymeacoffee.com/durgaaisolutions"><img src="https://img.buymeacoffee.com/button-api/?text=Durgaai Solutions&emoji=🤖&slug=durgaaisolutions&button_colour=16a72e&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+<a href='https://ko-fi.com/X8X61D06RW' target='_blank'><img height='52' style='border:20px;height:52px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='20' alt='Buy Me a Coffee At ko-fi.com' /></a>
+
+<h3 align="left">📊Our Info :</h3>
+
+![](https://github-profile-trophy.vercel.app/?username=Anubhav1608&theme=darkhub)
 
 <h3 align="left">✅Connect With Us :</h3>
-<a href="https://github.com/Durgaai-Solutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Durgaai-Solutions" height="30" width="40" /></a>
-<a href="https://instagram.com/durgaai.solutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgaai.solutions" height="30" width="40" /></a>
+<a href="https://github.com/DurgaaiSolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Durgaai-Solutions" height="30" width="40" /></a>
+<a href="https://instagram.com/durgaaisolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgaai.solutions" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@DurgaaiSolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="DurgaaiSolutions" height="30" width="40" /></a>
-<a href="https://www.durgaai.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="Durgaai-Solutions" height="30" width="40" /></a>
-<a href="https://www.x.com/Durgaai_india" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Durgaai-Solutions" height="30" width="40" /></a>
+<a href="https://www.durgaaisolutions.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="Durgaai-Solutions" height="30" width="40" /></a>
+<a href="https://www.x.com/TeamDurgaai_X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Durgaai-Solutions" height="30" width="40" /></a>
 <a href="https://discord.gg/u7Gjp7rm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Durgaai-Solutions" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/company/durgaai-solutions/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Durgaai-Solutions" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/durgaaisolutions/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Durgaai-Solutions" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/Durgaai-Solutions/61561720241069/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Durgaai-Solutions" height="30" width="40" /></a>
